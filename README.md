@@ -10,4 +10,4 @@ Implemented Hill Climber, Genetic and MCTS Agents for Pacman
 Breast Cancer Prediction using KNN, Decision Tree, Perceptron and MLP without using scikit-learn library (from scratch)
 
 # Assignment4
-Breast Cancer Prediction K-clustering Algorithm from scratch (.py file in Assignment3 folder)
+Breast Cancer Prediction K-means clustering Algorithm from scratch (.py file in Assignment3 folder)
