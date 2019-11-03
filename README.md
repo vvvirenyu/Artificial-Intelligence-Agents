@@ -1,4 +1,4 @@
-# CS-GY-6613-AI
+# NYU CS-GY-6613-AI
 
 # Assignment1
 Implemented BFS, DFS, A* Agents for Pacman
